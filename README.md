@@ -4,7 +4,7 @@
 
 Engineers often pose thought experiments that challenge them to solve difficult problems. The one I came up with appears fairly simple on the surface:
 
-“Can you drive from point A to point B in an EV completely off-grid carrying all your own food, water, and power?” 
+> “Can you drive from point A to point B in an EV completely off-grid carrying all your own food, water, and power?” 
 
 I call this a “Martian Roadtrip” - just like in the movie The Martian where Mark Watney has to travel across Mars in a rover EV.
 
