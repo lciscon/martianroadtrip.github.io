@@ -1,5 +1,7 @@
 # Welcome to the Martian Roadtrip
 
+![Martian Rover](/assets/images/rover1.png)
+
 ## Introduction
 
 Engineers often pose thought experiments that challenge them to solve difficult problems. The one I came up with appears fairly simple on the surface:
