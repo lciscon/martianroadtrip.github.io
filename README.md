@@ -20,6 +20,8 @@ The goal is to get across as quickly as possible. Maybe this will be the start o
 
 #MartianRoadtrip
 
+![Martian Rover](/assets/images/qrcode.png)
+
 ## LinkedIn Posts
 
 https://www.linkedin.com/feed/update/urn:li:activity:7233625442480496641/
