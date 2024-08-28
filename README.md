@@ -6,7 +6,7 @@
 
 Engineers often pose thought experiments that challenge them to solve difficult problems. The one I came up with appears fairly simple on the surface:
 
-> “Can you drive from point A to point B in an EV completely off-grid carrying all your own food, water, and power?” 
+> Can you drive from point A to point B in an EV completely off-grid carrying all your own food, water, and power?
 
 I call this a “Martian Roadtrip” - just like in the movie The Martian where Mark Watney has to travel across Mars in a rover EV.
 
@@ -17,4 +17,19 @@ This is a multivariable optimization problem. More weight reduces the efficiency
 I’ve decided to not just think about this but do it! I’m going to plan it all out - everything from the solar panels, to the charging system, food supplies, and maybe even a trailer. And then I'm going to get in an EV and go!
 
 The goal is to get across as quickly as possible. Maybe this will be the start of a new kind of competition…
+
+#MartianRoadtrip
+
+![Martian Rover](/assets/images/qrcode.png)
+
+## LinkedIn Posts
+
+![LinkedIn Martian Roadtrip](https://www.linkedin.com/feed/update/urn:li:activity:7233625442480496641/)
+
+
+## YouTube Videos
+
+![Martian Roadtrip YouTube](https://www.youtube.com/playlist?list=PL1Zi6KpWfD8iVpOzrdpXz5g86jV4EjlZx)
+
+
 
