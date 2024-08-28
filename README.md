@@ -18,3 +18,15 @@ I’ve decided to not just think about this but do it! I’m going to plan it al
 
 The goal is to get across as quickly as possible. Maybe this will be the start of a new kind of competition…
 
+#MartianRoadtrip
+
+LinkedIn Posts:
+
+https://www.linkedin.com/feed/update/urn:li:activity:7233625442480496641/
+
+YouTube Videos:
+
+https://www.youtube.com/playlist?list=PL1Zi6KpWfD8iVpOzrdpXz5g86jV4EjlZx
+
+
+
