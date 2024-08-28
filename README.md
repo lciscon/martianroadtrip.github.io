@@ -24,12 +24,12 @@ The goal is to get across as quickly as possible. Maybe this will be the start o
 
 ## LinkedIn Posts
 
-![LinkedIn Martian Roadtrip](https://www.linkedin.com/feed/update/urn:li:activity:7233625442480496641/)
+[LinkedIn Martian Roadtrip](https://www.linkedin.com/feed/update/urn:li:activity:7233625442480496641/)
 
 
 ## YouTube Videos
 
-![Martian Roadtrip YouTube](https://www.youtube.com/playlist?list=PL1Zi6KpWfD8iVpOzrdpXz5g86jV4EjlZx)
+[Martian Roadtrip YouTube](https://www.youtube.com/playlist?list=PL1Zi6KpWfD8iVpOzrdpXz5g86jV4EjlZx)
 
 
 
