@@ -1,8 +1,7 @@
-# Welcome to the Martian Roadtrip
 
 ![Martian Rover](/assets/images/rover1.png)
 
-## Introduction
+# Introduction
 
 Engineers often pose thought experiments that challenge them to solve difficult problems. The one I came up with appears fairly simple on the surface:
 
@@ -18,18 +17,16 @@ I’ve decided to not just think about this but do it! I’m going to plan it al
 
 The goal is to get across as quickly as possible. Maybe this will be the start of a new kind of competition…
 
-#MartianRoadtrip
-
-![Martian Rover](/assets/images/qrcode.png)
+![Martian Rover](/assets/images/qrcode.jpeg)
 
 ## LinkedIn Posts
 
-![LinkedIn Martian Roadtrip](https://www.linkedin.com/feed/update/urn:li:activity:7233625442480496641/)
+[Martian Roadtrip Introduction](https://www.linkedin.com/feed/update/urn:li:activity:7233625442480496641/)
 
 
 ## YouTube Videos
 
-![Martian Roadtrip YouTube](https://www.youtube.com/playlist?list=PL1Zi6KpWfD8iVpOzrdpXz5g86jV4EjlZx)
+[Martian Roadtrip Episode 1](https://www.youtube.com/playlist?list=PL1Zi6KpWfD8iVpOzrdpXz5g86jV4EjlZx)
 
 
 
