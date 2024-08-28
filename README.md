@@ -1,8 +1,7 @@
-# Welcome to the Martian Roadtrip
 
 ![Martian Rover](/assets/images/rover1.png)
 
-## Introduction
+# Introduction
 
 Engineers often pose thought experiments that challenge them to solve difficult problems. The one I came up with appears fairly simple on the surface:
 
@@ -17,8 +16,6 @@ This is a multivariable optimization problem. More weight reduces the efficiency
 I’ve decided to not just think about this but do it! I’m going to plan it all out - everything from the solar panels, to the charging system, food supplies, and maybe even a trailer. And then I'm going to get in an EV and go!
 
 The goal is to get across as quickly as possible. Maybe this will be the start of a new kind of competition…
-
-#MartianRoadtrip
 
 ![Martian Rover](/assets/images/qrcode.jpeg)
 
