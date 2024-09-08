@@ -8,5 +8,12 @@ permalink: /
 
 Welcome to the Martian Roadtrip project. This project started as an engineering thought experiment, but has grown beyond that.  It may end up as an engineering competition ala the X-prize.  Or it may end up as one or more products.  Who knows.
 
+![Martian Rover](/assets/images/TripPlan1.png)
+
+![Martian Rover](/assets/images/Car+Trailer.png)
+
+![Martian Rover](/assets/images/qrcode.png)
+
+
 
 
