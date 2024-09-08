@@ -10,9 +10,7 @@ Welcome to the Martian Roadtrip project. This project started as an engineering 
 
 ![Martian Rover](/assets/images/TripPlan1.png)
 
-![Martian Rover](/assets/images/Car+Trailer.png)
-
-![Martian Rover](/assets/images/qrcode.png)
+![Martian Rover](/assets/images/qrcode.jpeg)
 
 
 
