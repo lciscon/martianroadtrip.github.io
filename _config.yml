@@ -1,3 +1,5 @@
 remote_theme: sighingnow/jekyll-gitbook
 title: The Martian Roadtrip
 description: Bookmark this to keep an eye on my project updates!
+toc:
+    enabled: true
