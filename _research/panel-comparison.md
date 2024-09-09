@@ -1,5 +1,5 @@
 ---
-title: Panel Comparison
+title: Solar Panel Comparison
 author: Larry Ciscon
 date: 2024-09-01
 category: Requirements
