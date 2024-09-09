@@ -1,12 +1,11 @@
 ---
-title: Solar Panel Comparison
+title: Research
 author: Larry Ciscon
 date: 2024-09-01
 category: Requirements
 layout: post
 ---
 
-#research
 ## Solar Panel Comparison 
 
 <iframe id="myiframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQi5bYz8SdhjVWl_L04I2Bd5sq6CAyrdHu2UF1zxxXtuHFu2DTeuIfOsNZzDX2IO_4sIvjTtWbVLlpb/pubhtml?widget=true&amp;headers=false"></iframe>
@@ -16,6 +15,7 @@ layout: post
       height: 800px;
    }
 </style>
+
 
 
 
