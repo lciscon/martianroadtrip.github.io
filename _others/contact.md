@@ -6,7 +6,7 @@ category: General
 layout: post
 ---
 
-For more information send email to: 
+For more information send an email to: 
 
 lciscon@gmail.com
 
