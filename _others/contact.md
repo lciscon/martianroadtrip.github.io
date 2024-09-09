@@ -6,4 +6,7 @@ category: General
 layout: post
 ---
 
+For more information send email to: lciscon@gmail.com
+
+
 ![Martian Rover](/MartianRoadtrip/assets/images/qrcode.jpeg)
