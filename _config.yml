@@ -6,14 +6,14 @@ toc:
 
 
 collections:
-  data:
+  pages:
     output: true
     permalink: /:collection/:path/
-  pages:
+  others:
     output: true
     permalink: /:collection/:path/
 
 ordered_collections:
   - posts
-  - data
   - pages
+  - others
