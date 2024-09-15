@@ -8,7 +8,7 @@ layout: post
 
 ## Solar Panel Comparison 
 
-Download link: <a href="/MartianRoadtrip/assets/data/MRTPanelComparisonV1.xlsx" download>Click here to download</a>
+Download link: <a download="/MartianRoadtrip/assets/data/MRTPanelComparisonV1.xlsx">Click here to download</a>
 
 Download link: [Panel Comparison Sheet](/MartianRoadtrip/assets/data/MRTPanelComparisonV1.xlsx "Panel Comparison Sheet")
 
