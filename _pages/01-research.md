@@ -8,6 +8,8 @@ layout: post
 
 ## Solar Panel Comparison 
 
+Download link: [Panel Comparison Sheet]("/MartianRoadtrip/assets/data/MRT Panel Comparison V1.xlsx" "download")
+
 <iframe id="myiframe" src="https://docs.google.com/spreadsheets/d/1M5IJVRTROWh_3QEKrtYobHRLmliWI0lsE_ikpGsXghs/pubhtml?widget=true&amp;headers=false"></iframe>
 <style>
    #myiframe {
@@ -16,7 +18,6 @@ layout: post
    }
 </style>
 
-Download link: [Panel Comparison Sheet](/MartianRoadtrip/assets/data/MRT Panel Comparison V1.xlsx)
 
 
 
