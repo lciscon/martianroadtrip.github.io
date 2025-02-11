@@ -33,8 +33,4 @@ The first of these will be The Martian Roadtrip.  The Martian Road Trip document
 The IPL will document the design, fabrication and incremental testing steps of the UPSaT in a series of educational videos posted on Youtube and other sites.  These videos create a platform to inspire individuals and groups to push their limits, learn new things, and take on complex problems in a methodical way. In addition it further pushes the Ion story to a larger audience.
 Funding & Sponsorships
 The lab will involve a range of sponsors and partners to provide business & engineering expertise, design input, and funding to cover expenses. These companies will be presented prominently in the videos and on related social media posts.
-Contact Information
-Lawrence Ciscon, Ph.D.
-lciscon@gmail.com
 
-[Link](https://lciscon.github.io/MartianRoadtrip/)
