@@ -16,6 +16,8 @@ Solar power production is growing by leaps and bounds.  As part of this there is
 
 UPSaT can be thrown in the back of an EV, pulled out by a single person and set up in less than 5 minutes.  It fully tracks the sun and provides maximum efficiency power capture for the whole day. 
 
+![Martian Rover](/MartianRoadtrip/assets/images/TowerAssem Render1.png)
+
 UPSaT also incorporates a small, lightweight Solar DC-DC fast charger to directly connect the tower to the EV’s NACS port that transfers power with up to 98% efficiency.  Depending upon the EV and environmental conditions it can generate up to 14kWh of energy per day which equates to roughly 50 miles of range. In addition multiple towers can be connected together to provide even greater range.
 
 
