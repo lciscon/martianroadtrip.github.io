@@ -1,6 +1,14 @@
-Ultralight Portable Solar Tower (UPSaT)
+---
+title: Summary
+author: Larry Ciscon
+date: 2024-09-01
+category: Requirements
+layout: post
+---
 
-Introduction
+## Ultralight Portable Solar Tower (UPSaT)
+
+### Introduction
 
 UPSaT  is a next generation ultralight high power (2kW) portable solar charging system. It is designed for capturing the most available energy per day in the smallest and lightest package possible.
 
@@ -13,13 +21,13 @@ UPSaT also incorporates a small, lightweight Solar DC-DC fast charger to directl
 
 The UPSaT project showcases the capabilities of the Ion Prototyping Lab (IPL) for design, prototyping and testing.  It spans industrial design, mechanical, and electrical engineering, material science, machining, manufacturing, and even software.  It also acts as a tool to educate entrepreneurs about the process of developing a new product idea from initial concept through production. 
 
-Events
+### Events
 Upon completion the UPSaT will be deployed in a number of high profile events in Houston, Texas and around the country to showcase its applications and to promote the Houston hard-tech innovation ecosystem. 
 
 The first of these will be The Martian Roadtrip.  The Martian Road Trip documents the planning and execution of a cross-country road trip in an EV that is recharged only with solar panels carried with the car.  This trip involves significant engineering optimization of weight, aerodynamics, trip logistics, and overall energy efficiency to minimize charging time and thus trip duration.  It pushes the system to prove off-grid self-sufficiency in a novel and highly visible manner.
 
 
-Production
+### Production
 The IPL will document the design, fabrication and incremental testing steps of the UPSaT in a series of educational videos posted on Youtube and other sites.  These videos create a platform to inspire individuals and groups to push their limits, learn new things, and take on complex problems in a methodical way. In addition it further pushes the Ion story to a larger audience.
 Funding & Sponsorships
 The lab will involve a range of sponsors and partners to provide business & engineering expertise, design input, and funding to cover expenses. These companies will be presented prominently in the videos and on related social media posts.
