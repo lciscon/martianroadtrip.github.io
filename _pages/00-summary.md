@@ -1,13 +1,12 @@
 ---
-title: Executive Summary
+title: Ultralight Portable Solar Tower
 author: Larry Ciscon
 date: 2024-09-01
 category: Requirements
 layout: post
 ---
 
-## Ultralight Portable Solar Tower (UPSaT)
-
+## Executive Summary
 UPSaT  is a next generation ultralight high power (2kW) portable solar charging system. It is designed for capturing the most available energy per day in the smallest and lightest package possible.
 
 Solar power production is growing by leaps and bounds.  As part of this there is a clear need for high power portable solar charging for off-grid events, vehicles, and installations.   
